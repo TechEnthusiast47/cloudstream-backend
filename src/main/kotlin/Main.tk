@@ -1,0 +1,6 @@
+fun main() {
+    println("Backend CloudStream OK")
+    while (true) {
+        Thread.sleep(60000)
+    }
+}
